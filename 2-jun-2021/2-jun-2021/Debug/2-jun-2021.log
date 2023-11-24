@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OOP\2-jun-2021\2-jun-2021\main.cpp(6,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  2-jun-2021.vcxproj -> D:\OOP\2-jun-2021\Debug\2-jun-2021.exe

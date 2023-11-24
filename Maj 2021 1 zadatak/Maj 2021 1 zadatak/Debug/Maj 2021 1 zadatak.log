@@ -1,0 +1,13 @@
+﻿  Agencija.cpp
+C:\Users\User\source\repos\Maj 2021 1 zadatak\Maj 2021 1 zadatak\Letovanje.h(34,22): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Maj 2021 1 zadatak\Maj 2021 1 zadatak\Letovanje.h(36,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Maj 2021 1 zadatak\Maj 2021 1 zadatak\Agencija.h(6,7): error C2059: syntax error: 'using namespace'
+C:\Users\User\source\repos\Maj 2021 1 zadatak\Maj 2021 1 zadatak\Agencija.h(6,20): error C2238: unexpected token(s) preceding ';'
+C:\Users\User\source\repos\Maj 2021 1 zadatak\Maj 2021 1 zadatak\ObilazakGrada.h(7): fatal error C1075: '{': no matching token found
+  Letovanje.cpp
+C:\Users\User\source\repos\Maj 2021 1 zadatak\Maj 2021 1 zadatak\Letovanje.h(34,22): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\source\repos\Maj 2021 1 zadatak\Maj 2021 1 zadatak\Letovanje.h(36,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ObilazakGrada.cpp
+C:\Users\User\source\repos\Maj 2021 1 zadatak\Maj 2021 1 zadatak\ObilazakGrada.h(7): fatal error C1075: '{': no matching token found
+  Putovanje.cpp
+  Generating Code...

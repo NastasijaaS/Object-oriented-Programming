@@ -1,0 +1,6 @@
+kondenztor 10000 10
+kondenztor 10001 1
+kondenztor 10000 10
+kondenztor 10001 1
+kondenztor 10000 10
+kondenztor 10001 1
